@@ -27,21 +27,21 @@ Following the tutorial: An introduction to a tutorial on how to build a universa
 - [x] Create an emoji picker modal
 - [x] Display a list of emoji
 - [x] Display the selected emoji
-- [ ] Install and configure libraries
-- [ ] Use animated components
-- [ ] Add a tap gesture
-- [ ] Add a pan gesture
-- [ ] Install libraries
-- [ ] Prompt for permissions
-- [ ] Picking a library to take screenshots
-- [ ] Create a ref to save the current view
-- [ ] Capture a screenshot and save it
-- [ ] Install and import dom-to-image
-- [ ] Add platform-specific code
-- [ ] Configure the status bar
-- [ ] Splash screen
-- [ ] Configure the splash screen background color
-- [ ] App icon
+- [x] Install and configure libraries
+- [x] Use animated components
+- [x] Add a tap gesture
+- [x] Add a pan gesture
+- [x] Install libraries
+- [x] Prompt for permissions
+- [x] Picking a library to take screenshots
+- [x] Create a ref to save the current view
+- [x] Capture a screenshot and save it
+- [x] Install and import dom-to-image
+- [x] Add platform-specific code
+- [x] Configure the status bar
+- [x] Splash screen
+- [x] Configure the splash screen background color
+- [x] App icon
 
 
 
